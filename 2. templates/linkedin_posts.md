@@ -1,4 +1,10 @@
-# LinkedIn Viral Post Template
+templates/
+ ├── linkedin_posts.md
+ ├── testing_prompts.md
+ ├── ai_automation.md
+ ├── resume_builder.md
+ 
+ # LinkedIn Viral Post Template
 
 ## Prompt
 "Write a high-engagement LinkedIn post on {topic}
