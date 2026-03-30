@@ -1,10 +1,5 @@
 # Advanced Prompting Techniques
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Expert-level prompting strategies for complex QA tasks
@@ -234,4 +229,3 @@ DOCUMENTATION:
 - [Chain-of-Thought](ch_02_chain_of_thought.md)
 - [Role-Based Prompting](ch_02_role_based_prompting.md)
 - [Precise Prompting](ch_02_precise_prompting.md)
-

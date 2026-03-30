@@ -1,12 +1,3 @@
-# Chapter 2: Prompt Engineering
-
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
----
-
 ## Overview
 
 This chapter covers prompt engineering techniques for QA professionals to effectively communicate with LLMs and generate accurate, reliable outputs.
