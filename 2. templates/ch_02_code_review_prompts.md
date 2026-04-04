@@ -1,16 +1,6 @@
 # Code Review Prompts
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
----
-
 **Purpose:** Review code from a QA perspective
-**Chapter:** 2 - Prompt Engineering
-
----
 
 ## Template 1: General Code Review (QA Focus)
 
@@ -213,8 +203,6 @@ CODE:
 
 ---
 
-## See Also
 
-- [Test Case Prompts](ch_02_test_case_prompts.md)
 - [Chain-of-Thought](../techniques/ch_02_chain_of_thought.md)
 
