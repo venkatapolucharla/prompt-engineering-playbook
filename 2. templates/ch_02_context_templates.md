@@ -1,14 +1,8 @@
 # Context Creation via Templates (.md files)
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Create reusable context templates for consistent prompts
-**Chapter:** 2 - Prompt Engineering
 
 ---
 
