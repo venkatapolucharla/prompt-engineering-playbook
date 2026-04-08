@@ -1,10 +1,4 @@
 # Role-Based Prompting
-
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Assigning personas to guide AI behavior
@@ -168,10 +162,3 @@ You are a Senior QA Engineer with expertise in API testing.
 ```
 
 ---
-
-## See Also
-
-- [Zero-Shot Prompting](ch_02_zero_shot_prompting.md)
-- [Test Case Prompts](../templates/ch_02_test_case_prompts.md)
-- [Anatomy of a Prompt](../core_concepts/ch_02_anatomy_of_prompt.md)
-
