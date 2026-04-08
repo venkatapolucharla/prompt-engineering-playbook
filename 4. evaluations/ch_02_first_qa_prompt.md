@@ -1,9 +1,5 @@
 # Write Your First QA-Style Prompt
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
 
 ---
 
@@ -208,10 +204,3 @@ _________________________________________________
 - [ ] Terminology defined if needed
 
 ---
-
-## See Also
-
-- [RICE POT Framework](../core_concepts/ch_02_rice_pot_framework.md)
-- [Steps for Effective Prompting](../core_concepts/ch_02_steps_effective_prompting.md)
-- [Test Case Prompts](../templates/ch_02_test_case_prompts.md)
-
