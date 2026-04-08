@@ -1,5 +1,3 @@
----
-
 **Purpose:** Active Learning for Prompt Engineering
 **Chapter:** 2 - Prompt Engineering
 
