@@ -1,10 +1,5 @@
 # Precise Prompting
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Writing highly specific prompts for accurate outputs
@@ -184,10 +179,3 @@ CONSTRAINTS:
 | Critical bug analysis | Quick questions |
 
 ---
-
-## See Also
-
-- [Zero-Shot Prompting](ch_02_zero_shot_prompting.md)
-- [Few-Shot Prompting](ch_02_few_shot_prompting.md)
-- [RICE POT Framework](../core_concepts/ch_02_rice_pot_framework.md)
-
