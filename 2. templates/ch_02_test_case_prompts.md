@@ -1,10 +1,4 @@
 # Test Case Generation Prompts
-
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Ready-to-use prompt templates for test case generation
