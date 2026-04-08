@@ -1,10 +1,3 @@
-# Chapter 2 Exercises
-
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Active Learning for Prompt Engineering
@@ -163,9 +156,3 @@ Write a complete prompt with:
 - [ ] Appropriate prompting type used
 
 ---
-
-## See Also
-
-- [Exercises Solutions](ch_02_exercises_solutions.md)
-- [Anatomy of a Prompt](../core_concepts/ch_02_anatomy_of_prompt.md)
-
