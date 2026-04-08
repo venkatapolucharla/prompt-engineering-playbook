@@ -1,10 +1,5 @@
 # API Testing Prompts
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-
 ---
 
 **Purpose:** Generate API test cases and scenarios
@@ -213,9 +208,3 @@ ERROR SPEC:
 | Error handling | Template 6 |
 
 ---
-
-## See Also
-
-- [Test Case Prompts](ch_02_test_case_prompts.md)
-- [Few-Shot Prompting](../techniques/ch_02_few_shot_prompting.md)
-
